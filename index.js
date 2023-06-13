@@ -1,6 +1,6 @@
 const employees = []; // Array to store employee objects
 
-const deletedemployeesID=[]; // Array to store employee IDs
+const deletedemployeesID=[]; // Array to store deleted employee IDs
 
 
 // ...
